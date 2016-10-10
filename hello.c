@@ -4,7 +4,7 @@ int main() {
    /* I just copy pasted this. */
    printf("Hello! \n");
 	/* Did you know you could do this? */
-  char cmd[] = "/bin/cat README";
+  char cmd[] = "/bin/cat IMPORTANT";
   system(cmd);   
   return 0;
 }
